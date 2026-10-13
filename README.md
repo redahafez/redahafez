@@ -189,11 +189,18 @@ I am a **Senior Full-Stack Software Engineer & Solutions Architect** specializin
 <p>I am always open to discussing <strong>complex architectural challenges</strong>, <strong>high-scale enterprise systems</strong>, or <strong>innovative engineering leadership opportunities</strong>.</p>
 
 <a href="https://github.com/redahafez">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-redahafez-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="mailto:reda.hafez@example.com">
-  <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:reda.hafez11@gmail.com">
+  <img src="https://img.shields.io/badge/Email-reda.hafez11%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="mailto:reda.hafez11@gmail.com">
+  <img src="https://img.shields.io/badge/Get_In_Touch-Send_Email-0284C7?style=for-the-badge&logo=minutemailer&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<p>📧 Direct Email: <strong><a href="mailto:reda.hafez11@gmail.com">reda.hafez11@gmail.com</a></strong></p>
 
 </div>
 
