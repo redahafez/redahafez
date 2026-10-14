@@ -36,7 +36,7 @@ I am a **Senior Full-Stack Software Engineer & Solutions Architect** specializin
       <h3 align="center">👁️ <a href="https://github.com/redahafez/HorusAgent-AI">HorusAgent-AI Platform</a></h3>
       <p align="center">
         <a href="https://github.com/redahafez/HorusAgent-AI">
-          <img src="https://raw.githubusercontent.com/redahafez/HorusAgent-AI/main/assets/horus-logo.png" alt="HorusAgent-AI" width="100%" style="border-radius: 8px;" />
+          <img src="https://raw.githubusercontent.com/redahafez/HorusAgent-AI/main/assets/HorusAgentsAI.png" alt="HorusAgent-AI" width="300" />
         </a>
       </p>
       <p>
