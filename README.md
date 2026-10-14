@@ -32,20 +32,33 @@ I am a **Senior Full-Stack Software Engineer & Solutions Architect** specializin
 
 <table width="100%">
   <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">👁️ <a href="https://github.com/redahafez/HorusAgent-AI">HorusAgent-AI Platform</a></h3>
+      <p align="center">
+        <strong>Sovereign Autonomous Multi-Agent Swarm &amp; Real-Time Vector RAG Intelligence Engine</strong>
+      </p>
+      <p>
+        An enterprise-grade autonomous multi-agent orchestration platform inspired by the all-seeing Eye of Horus. Features dynamic DAG task compilation, real-time WebSocket thought streaming, dense semantic vector search, anti-hallucination critic reflection, and cryptographic SHA-256 regulatory sealing.
+      </p>
+      <div align="center">
+        <code>Python 3.12</code> • <code>FastAPI (Async)</code> • <code>Next.js 14</code> • <code>TypeScript</code> • <code>Vector RAG (128-dim Cosine)</code> • <code>WebSockets</code> • <code>Docker</code>
+      </div>
+      <div align="center" style="margin-top: 10px;">
+        <a href="https://github.com/redahafez/HorusAgent-AI">
+          <img src="https://img.shields.io/badge/View_Repository-0284C7?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🧊 <a href="https://github.com/redahafez/AtlasLogix_Enterprise-IoT-Cold-Chain-Regulatory-Platform">AtlasLogix Platform</a></h3>
       <p align="center">
-        <strong>Enterprise IoT Cold-Chain & Regulatory Platform</strong>
+        <strong>Enterprise IoT Cold-Chain &amp; Regulatory Platform</strong>
       </p>
       <p>
-        A mission-critical, multi-tenant logistics and telemetry platform engineered for real-time temperature monitoring of vaccines, biologics, and clinical supplies.
+        Mission-critical, multi-tenant logistics &amp; telemetry platform for real-time cold-chain monitoring of vaccines and pharmaceuticals with strict FDA 21 CFR Part 11 electronic audit trails.
       </p>
-      <ul>
-        <li>⚡ <strong>Real-Time Streaming:</strong> WebSocket telemetry dispatcher with hardware sensor emulation.</li>
-        <li>🛡️ <strong>Regulatory Compliance:</strong> Strict FDA 21 CFR Part 11 electronic audit trail & tamper-resistant locks.</li>
-        <li>🏢 <strong>Multi-Tenant Isolation:</strong> Strict tenant boundaries, RBAC permissions, and access governance.</li>
-        <li>🔄 <strong>Idempotent Event Ingestion:</strong> SHA-256 payload verification and conflict resolution.</li>
-      </ul>
       <p align="center">
         <code>Python 3.12</code> • <code>Django 5.1 (ASGI)</code> • <code>Next.js 14</code> • <code>PostgreSQL 16</code> • <code>Redis 7</code> • <code>Docker</code>
       </p>
@@ -58,17 +71,11 @@ I am a **Senior Full-Stack Software Engineer & Solutions Architect** specializin
     <td width="50%" valign="top">
       <h3 align="center">💎 <a href="https://github.com/redahafez/Ethereum-Transaction-with-MetaMask-Wallet">Ethereum MetaMask Suite</a></h3>
       <p align="center">
-        <strong>Web3 Blockchain Interaction & Smart Transaction Engine</strong>
+        <strong>Web3 Blockchain &amp; Smart Transaction Engine</strong>
       </p>
       <p>
-        A modern decentralized web application showcasing seamless interaction with the Ethereum blockchain via MetaMask and ethers.js.
+        Decentralized web application demonstrating non-custodial wallet connectivity, cryptographic payload preparation, client-side signing, and Ethereum ledger telemetry.
       </p>
-      <ul>
-        <li>🦊 <strong>Wallet Integration:</strong> Instant non-custodial wallet detection, state sync, and network switching.</li>
-        <li>🔐 <strong>Cryptographic Signing:</strong> Secure payload preparation and client-side transaction signing.</li>
-        <li>⛓️ <strong>Blockchain Telemetry:</strong> Live gas estimation, pending transaction lifecycle tracking, and block receipt confirmation.</li>
-        <li>🎨 <strong>Reactive UI:</strong> Smooth user onboarding and error resilience against provider rejection.</li>
-      </ul>
       <p align="center">
         <code>JavaScript</code> • <code>Ethers.js</code> • <code>MetaMask API</code> • <code>Web3</code> • <code>Ethereum</code>
       </p>
